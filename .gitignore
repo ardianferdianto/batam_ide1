@@ -1,0 +1,8 @@
+/backend/vendor
+/backend/node_modules
+/backend/public/storage
+/backend/Homestead.yaml
+/backend/Homestead.json
+/backend/.env
+/backend/complaint.sublime-project
+/backend/complaint.sublime-workspace
